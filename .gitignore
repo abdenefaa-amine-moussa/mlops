@@ -1,0 +1,25 @@
+# Environnement virtuel
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Variables d'environnement
+.env
+
+# Logs
+*.log
